@@ -35,7 +35,7 @@ gcc cli-xo.c -o cli-xo
 - Both diagonals  
 
 ## 🔧 Technical Details  
-**Language:** C11 Standard  
+**Language:** C Standard  
 **Dependencies:** Standard libraries  
 **Compatibility:** Windows/macOS/Linux  
 **Files:**  
