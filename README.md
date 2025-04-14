@@ -41,12 +41,3 @@ gcc cli-xo.c -o cli-xo
 **Files:**  
 - `cli-xo.c` (main program)  
 - `Makefile` (optional)  
-
-## 🤝 Contribution  
-1. Fork repository  
-2. Create feature branch  
-3. Submit pull request  
-**Planned extensions:**  
-- AI opponent  
-- Network mode  
-- Statistics tracking  
