@@ -7,7 +7,6 @@
 - Input validation
 - Instant win detection
 - Auto-restart functionality
-- Cross-platform support
 
 ## ⚙️ Installation
 ```bash
